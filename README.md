@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/giphy.gif" height="280" />
+<img alt="GIF" src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/tumblr_1fa1e4179948bd07c64fb16d569b571f_11ec5fbb_400.gif" height="140" />
  <p/>
 <h1 align="center"> Hi! I'm Huy Vo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
@@ -8,12 +8,13 @@ I'm Huy Vo, a passionate Computer Science student 💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently learning about NodeJS.
-- :computer: Just type stuff yk.
+- :finnadie:: Just type stuff yk.
 - 🤔 I’m looking for an internship.
-- 🎮: Part-time Zed OTP 1.5m points in League. RE4 Enthusiast.
+- 🎮: Part-time Zed OTP 1.5m points in League.
+- :heart: RE4 Enthusiast.
 
 
-🤝 &nbsp; Connect with Me
+🤝 &nbsp; Social Medias
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/huy-vo-92bb58191/)
 <hr>
@@ -25,7 +26,7 @@ I'm Huy Vo, a passionate Computer Science student 💻.
 
 <hr>
 
-### ⚙️ &nbsp; Git Analytics
+### ⚙️ &nbsp; Git Stats 💤💤💤
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DescendingMisery&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescendingMisery&theme=dark&layout=compact" width="410" /></p>
