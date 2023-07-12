@@ -31,7 +31,6 @@ I'm Huy Vo, a passionate Computer Science student 💻.
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DescendingMisery&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescendingMisery&theme=dark&layout=compact" width="410" /></p>
-![DescendingMisery](/img/BTL.svg)
 ------
 Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
