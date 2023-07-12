@@ -8,8 +8,8 @@ I'm Huy Vo, a passionate Computer Science student 💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently learning about NodeJS.
-- :finnadie:: Just type stuff yk.
-- 🤔 I’m looking for an internship.
+- 💻: Just type stuff yk.
+- :finnadie: I’m looking for an internship.
 - 🎮: Part-time Zed OTP 1.5m points in League.
 - :heart: RE4 Enthusiast.
 
