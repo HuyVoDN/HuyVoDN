@@ -8,7 +8,7 @@ I'm Huy Vo, a passionate Computer Science student 💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently learning about NodeJS.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- :computer: Just type stuff yk.
 - 🤔 I’m looking for an internship.
 - 🎮: Part-time Zed OTP 1.5m points in League. RE4 Enthusiast.
 
