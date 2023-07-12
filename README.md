@@ -1,17 +1,24 @@
 <p align="center">
 <img alt="GIF" src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/tumblr_1fa1e4179948bd07c64fb16d569b571f_11ec5fbb_400.gif" height="140" />
  <p/>
-<h1 align="center"> Hi! I'm Huy Vo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hey there!. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Huy+Vo;Some+call+me+Noel" alt="Typing SVG" /></a>
 
-I'm Huy Vo, a UH Computer Science student 💻.
+ <p>I am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
+
 
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently learning about NodeJS.
 - 💻: Just type stuff yk.
 - :finnadie: I’m looking for an internship.
-- 🎮: Part-time Zed OTP 1.5m points in League.
-- :heart: RE4 Enthusiast.
+------
+  <p align="center"><img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/c8d864187433ac0cc77a5a2e057d52d4_w200.gif" width="120" height="120"/>
+  <p align ="center">Part-time <strong>Zed OTP</strong> 1.5m points in League:finnadie:</p>  </p>
+  
+  <p align="center"> <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/resident_evil_4___icon_by_blagoicons_d9tkere-fullview.png" width="120" height="120"/></p>
+  <p align="center">RE4 Enthusiast🥇</p>
+  
 
 
 🤝 &nbsp; Social Medias
