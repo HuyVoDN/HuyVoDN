@@ -30,5 +30,5 @@ I'm Huy Vo, a passionate Computer Science student 💻.
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DescendingMisery&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescendingMisery&theme=dark&layout=compact" width="410" /></p>
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21ii34lqquavm4glsom3anqxi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21ii34lqquavm4glsom3anqxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
 ------
