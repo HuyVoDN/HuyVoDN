@@ -23,7 +23,7 @@
 <p align="center"><strong>🤝 &nbsp; Social Medias</strong></p>
 
 <p align="center"><a href="https://www.linkedin.com/in/huy-vo-92bb58191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.instagram.com/noelzedum/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></p>
+<a href="https://www.instagram.com/huy107_sw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></p>
 <hr>
  <p align="center"><strong>🛠 &nbsp; Tech Stack</strong></p>
 <p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> | </p>
