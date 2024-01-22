@@ -20,7 +20,6 @@
   <p align="center"> <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/resident_evil_4___icon_by_blagoicons_d9tkere-fullview.png" width="120" height="120"/></p>
   <p align="center">RE4 Enthusiast🥇</p>
   -->
- <hr>
 <p align="center"><strong>🤝 &nbsp; Social Medias</strong></p>
 
 <p align="center"><a href="https://www.linkedin.com/in/huy-vo-92bb58191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
