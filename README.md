@@ -9,9 +9,9 @@
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about NodeJS.
+- :seedling: I’m currently learning about React.
 - 💻: Just type stuff yk.
-- :finnadie: Can I have internship pls?
+- :finnadie: Can I have an internship pls?
 ------
   <!-- <p align="center"><strong>Games🎮</strong></p>
   <p align="center"><img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/c8d864187433ac0cc77a5a2e057d52d4_w200.gif" width="120" height="120"/>
