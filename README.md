@@ -13,12 +13,13 @@
 - 💻: Just type stuff yk.
 - :finnadie: Can I have internship pls?
 ------
-  <p align="center"><strong>Games🎮</strong></p>
+  <!-- <p align="center"><strong>Games🎮</strong></p>
   <p align="center"><img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/c8d864187433ac0cc77a5a2e057d52d4_w200.gif" width="120" height="120"/>
   <p align ="center">Part-time <strong>Zed OTP</strong> 1.5m points in League:finnadie:</p>  </p>
   
   <p align="center"> <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/resident_evil_4___icon_by_blagoicons_d9tkere-fullview.png" width="120" height="120"/></p>
   <p align="center">RE4 Enthusiast🥇</p>
+  -->
  <hr>
 <p align="center"><strong>🤝 &nbsp; Social Medias</strong></p>
 
