@@ -12,7 +12,7 @@
 - :finnadie: Internship?
 - 📧 Email me through <a href="mailto:huy.businesscontact@gmail.com">huy.businesscontact@gmail.com</a>
 ------
- <p align="center"><strong>🛠 &nbsp; Languages/Tech Stacks</strong></p>
+ <p align="center"><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 <p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40">  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> </p>
 <!--| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40">  | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> |  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"> | -->
@@ -20,7 +20,7 @@
 
 
 <hr>
-<p align="center"><strong>⚙️ &nbsp; Git Stats 💤🤡💤</strong></p>
+<p align="center"><strong>⚙️&nbsp;Git Stats 💤🤡💤</strong></p>
 
 <section align="center">
  
