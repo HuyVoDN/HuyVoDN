@@ -24,7 +24,7 @@
 
 <section align="center">
  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=dark&show_icons=true" /> <br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=dark&show_icons=true" /> <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyVoDN&theme=dark&layout=compact" width="380" />
 
 
