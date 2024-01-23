@@ -38,8 +38,3 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DescendingMisery&theme=dark&layout=compact" width="410" /></p>
 
-<hr>
-<p align="center"><strong>🎵Spotify Stuff🎵</strong></p>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21ii34lqquavm4glsom3anqxi&cover_image=true&theme=default&show_offline=false&background_color=545454&interchange=false)](https://github.com/kittinan/spotify-github-profile)"> </p>
-
-------
