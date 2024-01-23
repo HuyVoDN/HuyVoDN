@@ -22,8 +22,12 @@
 <hr>
 <p align="center"><strong>⚙️ &nbsp; Git Stats 💤🤡💤</strong></p>
 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=dark&show_icons=true" /></p>
+<section align="center">
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyVoDN&theme=dark&layout=compact" width="410" /></p> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=dark&show_icons=true" /> <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyVoDN&theme=dark&layout=compact" width="380" />
+
+
+</section>
 
 
