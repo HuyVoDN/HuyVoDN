@@ -25,9 +25,9 @@
 <!--| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40">  | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> |  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"> | -->
 <p align="center">|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| </p>
 
+<!--
 <hr>
-
-<!--<p align="center"><strong>⚙️ &nbsp; Git Stats 💤🤡💤</strong></p>
+<p align="center"><strong>⚙️ &nbsp; Git Stats 💤🤡💤</strong></p>
  
 
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DescendingMisery&theme=dark&show_icons=true" /></p>
