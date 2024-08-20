@@ -23,8 +23,8 @@
 
 <section align="center">
  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=dark&show_icons=true" /> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyVoDN&theme=dark&layout=compact" width="380" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=maroongold&show_icons=true" /> <br><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyVoDN&layout=compact&card_width=470&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </section>
