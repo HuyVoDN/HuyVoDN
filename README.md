@@ -2,13 +2,14 @@
 <h1 align="center"> Greetings, I'm Huy Vo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Huy+Vo;Some+call+me+Noel" alt="Typing SVG" /></a>
 <!-- Dynamic message svg generated from git.io as found above-->
- <p>I am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
+ <p>I am a graduate from The University of Houston <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> majored in Computer Science💻.</p>
 
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m interested in acquiring software development skills and flexibility.
-- 💻 I'm currently looking for an internship or a job opportunity.
+- :seedling: I’m currently working as an IT Technician while actively working on my CCNA certification.
+- Previously, I worked as a Software Engineering Intern at Paycom and Boston Scientific. While my background was previously dominated by software development, I have committed to stepping outside of my comfort zone and transferring my knowledge into networking, starting with learning the basics.
+- 💻 I'm currently experimenting and diving into the networking world through my homelab, and learning technologies such as WireShark and Packet Tracer.
 - 📧 Email me through <a href="mailto:huy.businesscontact@gmail.com">huy.businesscontact@gmail.com</a>
 ------
  <p align="center"><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
