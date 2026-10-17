@@ -7,7 +7,7 @@
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently working as an IT Technician while actively working on my CCNA certification.
+- :seedling: I’m currently working as an IT Support at HTH Communications LLC while actively working on my CCNA certification.
 - Previously, I worked as a Software Engineering Intern at Paycom and Boston Scientific. While my background was previously dominated by software development, I have committed to stepping outside of my comfort zone and transferring my knowledge into networking, starting with learning the basics.
 - 💻 I'm currently experimenting and diving into the networking world through my homelab, and learning technologies such as WireShark and Packet Tracer.
 - 📧 Email me through <a href="mailto:huy.businesscontact@gmail.com">huy.businesscontact@gmail.com</a>
